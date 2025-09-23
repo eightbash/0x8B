@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "eightB | 0x8B"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "Documenting my cybersecurity journey through penetration testing, CTF challenges, and ethical hacking projects."
+
+[params.author]
+  name = "eightB"
+  email = "admin@eightb.de"
+  image = "img/eightb_logo.png"
+  headline = "Breaking into knowledge, not systems"
+  bio = "Passionate about penetration testing, malware analysis, and network security. Sharing my learning journey through hands-on projects, CTF writeups, and security research."
+  links = [
+    { github = "https://github.com/eightbash/" },
+    { email = "mailto:admin@eightb.de" },
+  ]

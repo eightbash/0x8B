@@ -1,2 +1,2 @@
-# 0x8b
-A cybersecurity blog documenting my journey through ethical hacking, penetration testing, and security research. This repository contains the source code for my Hugo-powered security blog.
+# 0x8B
+Cybersecurity blog documenting my journey through penetration testing, CTF writeups, and open source security deployments. Built with Hugo &amp; Blowfish.
