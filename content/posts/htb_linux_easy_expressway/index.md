@@ -1,7 +1,7 @@
 ---
 title: "HTB Machine Expressway"
 date: 2025-09-22T13:28:11+02:00
-draft: true 
+draft: false 
 tags: ["hackthebox", "writeup", "linux", "easy", "season 9"]
 categories: ["CTF"]
 ---
