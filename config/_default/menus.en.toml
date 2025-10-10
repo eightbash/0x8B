@@ -49,5 +49,5 @@
 
  [[footer]]
    name = "PGP Key"
-   url = "/pgp-key.txt"
+   url = "/public-key.asc"
    weight = 30
